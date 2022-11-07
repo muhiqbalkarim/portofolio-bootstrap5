@@ -9,7 +9,8 @@ hr {
   border-top: 5px solid #0a06ef;
 }
 
-#project {
+#project,
+#contact {
   background-color: #e2edff;
 }
 
